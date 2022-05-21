@@ -11,22 +11,20 @@
 
 <br/>
 
-<a href="https://asomiddin.netlify.app/"> 
-<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50">
+<a href="https://www.instagram.com/asomiddin_ochilov/"> 
+<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="30" height="30">
 </a>
-
 
 <br/>
 
-<a href="https://asomiddin.netlify.app/"> 
-<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="50" height="50">
+<a href="https://t.me/asomiddin_ochilov"> 
+<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="30" height="30">
 </a>
-
 
 <br/>
 
-<a href="https://asomiddin.netlify.app/"> 
-<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" height="50">
+<a href="https://www.linkedin.com/in/asomiddin-ochilov-192696228/"> 
+<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30" height="30">
 </a>
 
 
