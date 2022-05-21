@@ -2,3 +2,12 @@
 
 ### I am a frontend programmer <img style="margin-left:10px;" src="https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=ecf05e479xnnmqlfipugn16a7er6v5i3mjb3qpnifecfuqjl&rid=giphy.gif&ct=s" width="100" height="100">
 
+### my social media links 
+
+<br/>
+
+<a href="https://asomiddin.netlify.app/">  my-web site </a>
+
+
+
+
