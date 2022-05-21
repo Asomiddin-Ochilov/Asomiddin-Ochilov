@@ -12,7 +12,7 @@
 <br/>
 
 <a href="https://asomiddin.netlify.app/"> 
-<img style="margin-left:10px;" src="https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=ecf05e479xnnmqlfipugn16a7er6v5i3mjb3qpnifecfuqjl&rid=giphy.gif&ct=s" width="50" height="50">
+<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" height="50">
 </a>
 
 
