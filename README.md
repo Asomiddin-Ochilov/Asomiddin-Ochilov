@@ -18,12 +18,16 @@
 
 <br/>
 
-<a href="https://asomiddin.netlify.app/">  my-web site </a>
+<a href="https://asomiddin.netlify.app/"> 
+<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="50" height="50">
+</a>
 
 
 <br/>
 
-<a href="https://asomiddin.netlify.app/">  my-web site </a>
+<a href="https://asomiddin.netlify.app/"> 
+<img style="margin-left:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50" height="50">
+</a>
 
 
 
